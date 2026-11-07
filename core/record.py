@@ -1,0 +1,1 @@
+#Registro, empaquetar y desempaquetar un registro
